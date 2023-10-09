@@ -48,6 +48,7 @@ class HomeScreen extends StatelessWidget {
                   .copyWith(fontWeight: FontWeight.bold),
             ),
           ),
+          //yaidel
           Categories(),
           Expanded(
             child: Padding(
